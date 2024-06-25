@@ -1,1 +1,1 @@
-# Seminar-2
+# Seminar
